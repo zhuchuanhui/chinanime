@@ -313,14 +313,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 .mg-clear{
 	margin:0;
 }
-.mg-sm{
-	margin-top:10px;
-	margin-bottom:5px;
-}
-.mg-md{
-	margin-top:10px;
-	margin-bottom:20px;
-}
 .mg-lg{
 	margin-top:10px;
 	margin-bottom:40px;
@@ -611,11 +603,11 @@ h1,h2,h3,h4,h5,h6{
 .bgc-7376{
 	background-color:var(--swatch-var-7376);
 }
-.bgc-6728{
-	background-color:var(--swatch-var-6728);
-}
 .bgc-2941{
 	background-color:var(--swatch-var-2941);
+}
+.bgc-6728{
+	background-color:var(--swatch-var-6728);
 }
 
 /* Text colour styles */
@@ -670,12 +662,12 @@ url("img/IMGP2318.webp") 2x);background-image: image-set(url("img/IMGP2318.JPG")
 url("img/IMGP2318.JPG") 2x,url("img/IMGP2318.webp") 1x,
 url("img/IMGP2318.webp") 2x);
 }
-.bg-IMGP3351{
-	background-image:url("img/IMGP3351.jpg");
-	background-image: -webkit-image-set(url("img/IMGP3351.webp") 1x,
-url("img/IMGP3351.webp") 2x);background-image: image-set(url("img/IMGP3351.jpg") 1x,
-url("img/IMGP3351.jpg") 2x,url("img/IMGP3351.webp") 1x,
-url("img/IMGP3351.webp") 2x);
+.bg-ball{
+	background-image:url("img/ball.JPG");
+	background-image: -webkit-image-set(url("img/ball.webp") 1x,
+url("img/ball.webp") 2x);background-image: image-set(url("img/ball.JPG") 1x,
+url("img/ball.JPG") 2x,url("img/ball.webp") 1x,
+url("img/ball.webp") 2x);
 }
 
 /* = Custom Bric Data
@@ -775,12 +767,6 @@ url("img/IMGP3351.webp") 2x);
 		font-weight:bold;
 		font-style:italic;
 		text-decoration:underline;
-	}
-	
-	/* MD Text Margin Offsets */
-	.mg-lg-md{
-		margin-top: 10px;
-		margin-bottom:40px;
 	}
 	
 }
