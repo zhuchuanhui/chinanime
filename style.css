@@ -656,40 +656,12 @@ url("img/coffee-shop-bg.webp") 2x);background-image: image-set(url("img/coffee-s
 url("img/coffee-shop-bg.jpg") 2x,url("img/coffee-shop-bg.webp") 1x,
 url("img/coffee-shop-bg.webp") 2x);
 }
-.bg-coffee-and-coffee-beans{
-	background-image:url("img/coffee-and-coffee-beans.jpg");
-	background-image: -webkit-image-set(url("img/coffee-and-coffee-beans.webp") 1x,
-url("img/coffee-and-coffee-beans.webp") 2x);background-image: image-set(url("img/coffee-and-coffee-beans.jpg") 1x,
-url("img/coffee-and-coffee-beans.jpg") 2x,url("img/coffee-and-coffee-beans.webp") 1x,
-url("img/coffee-and-coffee-beans.webp") 2x);
-}
-.bg-coffee-machine{
-	background-image:url("img/coffee-machine.jpg");
-	background-image: -webkit-image-set(url("img/coffee-machine.webp") 1x,
-url("img/coffee-machine.webp") 2x);background-image: image-set(url("img/coffee-machine.jpg") 1x,
-url("img/coffee-machine.jpg") 2x,url("img/coffee-machine.webp") 1x,
-url("img/coffee-machine.webp") 2x);
-}
 .bg-coffee-shop-bg{
 	background-image:url("img/coffee-shop-bg.jpg");
 	background-image: -webkit-image-set(url("img/coffee-shop-bg.webp") 1x,
 url("img/coffee-shop-bg.webp") 2x);background-image: image-set(url("img/coffee-shop-bg.jpg") 1x,
 url("img/coffee-shop-bg.jpg") 2x,url("img/coffee-shop-bg.webp") 1x,
 url("img/coffee-shop-bg.webp") 2x);
-}
-.bg-coffee-and-coffee-beans{
-	background-image:url("img/coffee-and-coffee-beans.jpg");
-	background-image: -webkit-image-set(url("img/coffee-and-coffee-beans.webp") 1x,
-url("img/coffee-and-coffee-beans.webp") 2x);background-image: image-set(url("img/coffee-and-coffee-beans.jpg") 1x,
-url("img/coffee-and-coffee-beans.jpg") 2x,url("img/coffee-and-coffee-beans.webp") 1x,
-url("img/coffee-and-coffee-beans.webp") 2x);
-}
-.bg-coffee-machine{
-	background-image:url("img/coffee-machine.jpg");
-	background-image: -webkit-image-set(url("img/coffee-machine.webp") 1x,
-url("img/coffee-machine.webp") 2x);background-image: image-set(url("img/coffee-machine.jpg") 1x,
-url("img/coffee-machine.jpg") 2x,url("img/coffee-machine.webp") 1x,
-url("img/coffee-machine.webp") 2x);
 }
 .bg-IMGP2318{
 	background-image:url("img/IMGP2318.JPG");
